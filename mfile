@@ -1,0 +1,8 @@
+{
+  "package": "MudletBusted",
+  "version": "1.0.0",
+  "author": "Demonnic",
+  "title": "The Busted testing suite, packaged for Mudlet",
+  "icon": "computer.png",
+  "outputFile": true
+}

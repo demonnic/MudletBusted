@@ -1,0 +1,5 @@
+.vscode/
+build/
+sub-projects/
+doc/
+.output

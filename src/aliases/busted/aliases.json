@@ -1,0 +1,6 @@
+[
+  {
+    "name": "runTests",
+    "regex": "^runTests(?: (.*))?$"
+  }
+]
