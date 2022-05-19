@@ -51,7 +51,7 @@ local options = {}
 
 -- If you change the following block of options, you will need to
 -- quit and reload mudlet
-options.output = 'plainTerminal'
+options.output = 'mudlet'
 options.suppressPending = false
 options.language = "en"
 options.deferPrint = false
