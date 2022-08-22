@@ -7,7 +7,7 @@ This comes with one alias, `runTests`. By default, it will look for every file i
 
 ## Writing tests
 
-There are some very good [docs](https://olivinelabs.com/busted/) available from the authors. For some practical examples, you can check out the [Mudlet busted tests](https://github.com/Mudlet/Mudlet/tree/development/src/mudlet-lua/tests)
+There are some very good [docs](https://lunarmodules.github.io/busted/) available from the authors. For some practical examples, you can check out the [Mudlet busted tests](https://github.com/Mudlet/Mudlet/tree/development/src/mudlet-lua/tests)
 
 ## TO-DO
 
